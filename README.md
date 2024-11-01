@@ -1,5 +1,5 @@
 # LeviCivita.cpp
-A simple approach to the Levi-Civita tensor.
+A simple approach to the [Levi-Civita tensor](https://en.wikipedia.org/wiki/Levi-Civita_symbol).
 
 ## 📚 Example Usage:
 
